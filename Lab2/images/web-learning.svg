@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="title desc">
+  <title id="title">Web development learning illustration</title>
+  <desc id="desc">A laptop showing HTML and CSS code beside books about building websites.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e9f3ff"/>
+      <stop offset="1" stop-color="#d7e9f2"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b3854"/>
+      <stop offset="1" stop-color="#10263b"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="360" rx="24" fill="url(#bg)"/>
+  <circle cx="530" cy="74" r="35" fill="#f7c873" opacity=".75"/>
+  <path d="M0 284 Q150 238 310 280 T640 270 V360 H0Z" fill="#c1d9e8"/>
+  <rect x="76" y="74" width="330" height="205" rx="14" fill="#274966"/>
+  <rect x="90" y="88" width="302" height="177" rx="7" fill="url(#screen)"/>
+  <circle cx="108" cy="105" r="4" fill="#f17e78"/>
+  <circle cx="122" cy="105" r="4" fill="#f2c46d"/>
+  <circle cx="136" cy="105" r="4" fill="#75c79b"/>
+  <path d="M125 142h88M125 165h142M125 188h115M125 211h166" stroke="#81c7ef" stroke-width="6" stroke-linecap="round"/>
+  <path d="M105 142h8M105 165h8M105 188h8M105 211h8" stroke="#f4bd70" stroke-width="5" stroke-linecap="round"/>
+  <path d="M50 282h382l-32 28H83Z" fill="#6889a1"/>
+  <path d="M196 283h90l-9 10h-72Z" fill="#d8e7ef"/>
+  <rect x="444" y="160" width="112" height="115" rx="8" fill="#f2b36c"/>
+  <rect x="456" y="145" width="112" height="115" rx="8" fill="#e88770"/>
+  <rect x="468" y="130" width="112" height="115" rx="8" fill="#fffaf0"/>
+  <path d="M483 151h75M483 170h60M483 189h68" stroke="#4c718c" stroke-width="6" stroke-linecap="round"/>
+  <path d="M505 245v34M545 245v34" stroke="#547e74" stroke-width="7" stroke-linecap="round"/>
+  <text x="112" y="333" fill="#24445e" font-family="Arial,sans-serif" font-size="17" font-weight="700">HTML · CSS · WEB DESIGN</text>
+</svg>
